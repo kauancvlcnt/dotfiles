@@ -11,11 +11,5 @@
 Reload your bspwm
 
 <h3>Observation:</h3>
-Delete the <strong>monitorArr</strong> folder, this is a personal setting
+Delete the <strong>monitorArr</strong style="color: red"> folder, this is a personal setting
 
-<style>
-  strong{
-    color: red;
-  }
-  
-</style>
