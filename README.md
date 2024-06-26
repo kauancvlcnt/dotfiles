@@ -1,6 +1,6 @@
 #dotfiles for bspwm.
 
-instructions:
+Instructions:
 
 ``cd ~/.config``
 
