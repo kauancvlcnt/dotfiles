@@ -8,4 +8,4 @@
 
 ``git clone https://github.com/PEAKYCOMMAND/dotfiles``
 
-reload your bspwm
+Reload your bspwm
