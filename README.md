@@ -5,7 +5,9 @@
 <h3>Instructions:</h3>
 
 ``git clone https://github.com/PEAKYCOMMAND/dotfiles``
+
 ``cd dotfiles``
+
 ``mv ./* ~/.config``
 
 
