@@ -4,9 +4,10 @@
 
 <h3>Instructions:</h3>
 
-``cd ~/.config``
-
 ``git clone https://github.com/PEAKYCOMMAND/dotfiles``
+``cd dotfiles``
+``mv ./* ~/.config``
+
 
 Reload your bspwm
 
