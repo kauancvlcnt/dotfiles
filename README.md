@@ -1,5 +1,6 @@
-##dotfiles for bspwm
-instructions
+#dotfiles for bspwm.
+instructions:
+
 ``cd ~/.config``
 
 ``git clone https://github.com/PEAKYCOMMAND/dotfiles``
