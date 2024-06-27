@@ -27,7 +27,7 @@ Reload your bspwm with super + alt + q
 git clone https://github.com/PEAKYCOMMAND/dotfiles && cd dotfiles && chmod +x install.sh && ./install.sh
 ```
 
-<h3>Necessary</h3>
+<h3>Do this regardless of which step you followed</h3>
 
 ```bash
 cd ~/.config
