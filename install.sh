@@ -11,7 +11,6 @@ echo "Sorry, this script is currently not avaliable for your system"
 return 0
 fi
 
-
 # Fonts?
 if [ ! -d ./fonts ]; then
     if [ ! -f ~/.local/share/fonts/Bailey.otf ]; then
