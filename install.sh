@@ -22,13 +22,8 @@ fi
 # Verify ~/.local/share
 if [ ! -d ~/.local/share ]; then 
     echo "your ~/.local/share directory was not found. Creating..."
-    sleep 1
-
-    if [ ! -d ~/.local ]; then
-    mkdir ~/.local
-    fi
-
-    mkdir ~/.local/share
+    mkdir -p ~/.local/share
+    
     mv fonts ~/.local/share
     fc-cache -fv
 fi
