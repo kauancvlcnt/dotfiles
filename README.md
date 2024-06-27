@@ -19,7 +19,7 @@ sudo pacman -S kitty
 sudo pacman -S python-pywal
 ```
 
-Reload your bspwm with super + alt + q
+Reload your bspwm with `super + alt + q`
 
 <h3>Automatic install</h3>
 
