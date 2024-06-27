@@ -33,6 +33,7 @@ git clone https://github.com/PEAKYCOMMAND/dotfiles && cd dotfiles && chmod +x in
 cd ~/.config
 rm -r monitorArr
 ```
+Finally, reload your bspwm using `super + alt + q`
 
 
 
