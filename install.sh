@@ -4,7 +4,7 @@ sleep 1.5
 # Dependencies for Archlinux
 if [ -f /etc/pacman.conf ]; then
 echo "Passed, your system is Archlinux, Welcome to Purple-Rices. Type your password for instalation dependencies:"
-sudo pacman -Syu flameshot kitty python-pywal
+sudo pacman -Syu flameshot kitty python-pywal --noconfirm
 
 else 
 echo "Sorry, this script is currently not avaliable for your system"
