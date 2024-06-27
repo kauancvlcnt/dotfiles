@@ -9,6 +9,7 @@ Use only with Archlinux for now.
 <h3>Instructions:</h3>
 
 <h3>Slower</h3>
+
 ```bash
 git clone https://github.com/PEAKYCOMMAND/dotfiles
 cd dotfiles
@@ -16,15 +17,18 @@ mv fonts ~/.local/share
 sudo pacman -S flameshot
 sudo pacman -S kitty
 sudo pacman -S python-pywal
-
-Reload your bspwm with super + alt + q
 ```
 
+Reload your bspwm with super + alt + q
+
 <h3>Automatic install</h3>
+
 ```bash
 git clone https://github.com/PEAKYCOMMAND/dotfiles && cd dotfiles && chmod +x install.sh && ./install.sh
 ```
+
 <h3>Necessary</h3>
+
 ```bash
 cd ~/.config
 rm -r monitorArr
