@@ -14,9 +14,8 @@ Use only with Archlinux for now.
 git clone https://github.com/PEAKYCOMMAND/dotfiles
 cd dotfiles
 mv fonts ~/.local/share
-sudo pacman -S flameshot
-sudo pacman -S kitty
-sudo pacman -S python-pywal
+sudo pacman -S flameshot kitty python-pywal
+
 ```
 
 Reload your bspwm with `super + alt + q`
