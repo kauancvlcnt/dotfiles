@@ -1,12 +1,12 @@
 <h1>Purple-Rices for bspwm.</h1>
-<h2>Before installing:</h2>
-Delete the <strong>monitorArr</strong> folder, this is a personal setting.
-
-Use only with Archlinux for now.
 
 ![Example](https://github.com/PEAKYCOMMAND/dotfiles/blob/main/walls/image_2024-06-25_13-03-34.png)
 
 <h3>Instructions:</h3>
+
+<h2>Before installing:</h2>
+
+Use only with Archlinux for now.
 
 <h3>Slower</h3>
 
