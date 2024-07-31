@@ -8,15 +8,6 @@
 
 Use only with Archlinux for now.
 
-<h3>Slower</h3>
-
-```bash
-git clone https://github.com/PEAKYCOMMAND/dotfiles
-cd dotfiles
-mv fonts ~/.local/share
-sudo pacman -S flameshot kitty python-pywal
-
-```
 
 Reload your bspwm with `super + alt + q`
 
