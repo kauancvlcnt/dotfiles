@@ -14,7 +14,7 @@ Reload your bspwm with `super + alt + q`
 <h3>Automatic install</h3>
 
 ```bash
-git clone https://github.com/PEAKYCOMMAND/dotfiles && cd dotfiles && chmod +x install.sh && ./install.sh
+git clone --depth=1 https://github.com/PEAKYCOMMAND/dotfiles && cd dotfiles && chmod +x install.sh && ./install.sh
 ```
 
 <h3>Do this regardless of which step you followed</h3>
